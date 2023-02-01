@@ -1,0 +1,13 @@
+.container .loader {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+.container .loader .loader_text {
+  font-size: 30px;
+  color: pink;
+}
+.container .movies {
+  margin: 50px 30px;
+}/*# sourceMappingURL=App.css.map */
